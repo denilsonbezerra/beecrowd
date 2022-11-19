@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\bin\Debug\net6.0\AreaOfACircle_1002.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\bin\Debug\net6.0\AreaOfACircle_1002.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\bin\Debug\net6.0\AreaOfACircle_1002.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\bin\Debug\net6.0\AreaOfACircle_1002.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\bin\Debug\net6.0\AreaOfACircle_1002.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\obj\Debug\net6.0\AreaOfACircle_1002.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\obj\Debug\net6.0\AreaOfACircle_1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\obj\Debug\net6.0\AreaOfACircle_1002.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\obj\Debug\net6.0\AreaOfACircle_1002.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\obj\Debug\net6.0\AreaOfACircle_1002.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\obj\Debug\net6.0\AreaOfACircle_1002.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\obj\Debug\net6.0\refint\AreaOfACircle_1002.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\obj\Debug\net6.0\AreaOfACircle_1002.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\obj\Debug\net6.0\AreaOfACircle_1002.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\AreaOfACircle_1002\AreaOfACircle_1002\obj\Debug\net6.0\ref\AreaOfACircle_1002.dll
