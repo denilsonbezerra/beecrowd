@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\bin\Debug\net6.0\SimpleProduct_1004.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\bin\Debug\net6.0\SimpleProduct_1004.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\bin\Debug\net6.0\SimpleProduct_1004.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\bin\Debug\net6.0\SimpleProduct_1004.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\bin\Debug\net6.0\SimpleProduct_1004.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\obj\Debug\net6.0\SimpleProduct_1004.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\obj\Debug\net6.0\SimpleProduct_1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\obj\Debug\net6.0\SimpleProduct_1004.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\obj\Debug\net6.0\SimpleProduct_1004.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\obj\Debug\net6.0\SimpleProduct_1004.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\obj\Debug\net6.0\SimpleProduct_1004.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\obj\Debug\net6.0\refint\SimpleProduct_1004.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\obj\Debug\net6.0\SimpleProduct_1004.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\obj\Debug\net6.0\SimpleProduct_1004.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\SimpleProduct_1004\SimpleProduct_1004\obj\Debug\net6.0\ref\SimpleProduct_1004.dll
