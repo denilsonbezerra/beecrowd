@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\bin\Debug\net6.0\Difference_1007.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\bin\Debug\net6.0\Difference_1007.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\bin\Debug\net6.0\Difference_1007.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\bin\Debug\net6.0\Difference_1007.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\bin\Debug\net6.0\Difference_1007.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\obj\Debug\net6.0\Difference_1007.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\obj\Debug\net6.0\Difference_1007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\obj\Debug\net6.0\Difference_1007.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\obj\Debug\net6.0\Difference_1007.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\obj\Debug\net6.0\Difference_1007.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\obj\Debug\net6.0\Difference_1007.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\obj\Debug\net6.0\refint\Difference_1007.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\obj\Debug\net6.0\Difference_1007.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\obj\Debug\net6.0\Difference_1007.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Difference_1007\Difference_1007\obj\Debug\net6.0\ref\Difference_1007.dll
