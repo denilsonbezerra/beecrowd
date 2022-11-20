@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\bin\Debug\net6.0\Average2_1006.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\bin\Debug\net6.0\Average2_1006.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\bin\Debug\net6.0\Average2_1006.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\bin\Debug\net6.0\Average2_1006.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\bin\Debug\net6.0\Average2_1006.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\obj\Debug\net6.0\Average2_1006.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\obj\Debug\net6.0\Average2_1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\obj\Debug\net6.0\Average2_1006.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\obj\Debug\net6.0\Average2_1006.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\obj\Debug\net6.0\Average2_1006.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\obj\Debug\net6.0\Average2_1006.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\obj\Debug\net6.0\refint\Average2_1006.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\obj\Debug\net6.0\Average2_1006.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\obj\Debug\net6.0\Average2_1006.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\Average2_1006\Average2_1006\obj\Debug\net6.0\ref\Average2_1006.dll
