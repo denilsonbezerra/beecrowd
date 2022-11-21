@@ -12,10 +12,10 @@ class URI
 
         // Calculate the sum between them
 
-        int SOMA = A + B;
+        int Soma = A + B;
 
         // Write the value of sum of A and B
 
-        Console.WriteLine($"SOMA = {SOMA}");
+        Console.WriteLine($"SOMA = {Soma}");
     }
 }
