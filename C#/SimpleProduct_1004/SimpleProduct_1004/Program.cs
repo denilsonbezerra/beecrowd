@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class URI
 {
@@ -10,10 +10,10 @@ class URI
         int A = int.Parse(Console.ReadLine());
         int B = int.Parse(Console.ReadLine());
 
-        int Prod = A * B;
+        int prod = A * B;
 
         // Print the PROD
 
-        Console.WriteLine($"PROD = {Prod}");
+        Console.WriteLine($"PROD = {prod}");
     }
 }
