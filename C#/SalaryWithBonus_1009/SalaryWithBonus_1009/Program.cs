@@ -9,13 +9,13 @@ class URI
 
         // The input contains a text (employee's first name), and two double precision values, that are the seller's salary and the total value sold by him/her
 
-        string Name = Console.ReadLine();
-        double Salary = double.Parse(Console.ReadLine());
-        double Sold = double.Parse(Console.ReadLine());
+        string name = Console.ReadLine();
+        double salary = double.Parse(Console.ReadLine());
+        double sold = double.Parse(Console.ReadLine());
 
         // Considering that this seller receives 15% over all products sold, write the final salary (total) of this seller at the end of the month, with two decimal places
 
-        double TOTAL = (Sold * 15 / 100) + Salary;
+        double TOTAL = (sold * 15 / 100) + salary;
         
         Console.WriteLine($"TOTAL = R$ {TOTAL:F2}");
     }
