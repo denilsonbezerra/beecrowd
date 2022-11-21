@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\obj\Debug\net6.0\SalaryWithBonus_1009.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\obj\Debug\net6.0\SalaryWithBonus_1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\obj\Debug\net6.0\SalaryWithBonus_1009.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\obj\Debug\net6.0\SalaryWithBonus_1009.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\obj\Debug\net6.0\SalaryWithBonus_1009.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\bin\Debug\net6.0\SalaryWithBonus_1009.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\bin\Debug\net6.0\SalaryWithBonus_1009.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\bin\Debug\net6.0\SalaryWithBonus_1009.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\bin\Debug\net6.0\SalaryWithBonus_1009.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\bin\Debug\net6.0\SalaryWithBonus_1009.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\obj\Debug\net6.0\SalaryWithBonus_1009.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\obj\Debug\net6.0\refint\SalaryWithBonus_1009.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\obj\Debug\net6.0\SalaryWithBonus_1009.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\obj\Debug\net6.0\SalaryWithBonus_1009.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryWithBonus_1009\SalaryWithBonus_1009\obj\Debug\net6.0\ref\SalaryWithBonus_1009.dll
