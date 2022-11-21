@@ -9,15 +9,15 @@ class URI
 
         // Input contains 2 integer numbers and 1 value of floating point
 
-        int Number = int.Parse(Console.ReadLine());
-        int Hours = int.Parse(Console.ReadLine());
-        decimal PerHour = decimal.Parse(Console.ReadLine());
+        int number = int.Parse(Console.ReadLine());
+        int hours = int.Parse(Console.ReadLine());
+        decimal perHour = decimal.Parse(Console.ReadLine());
 
         // Print the number and the employee's salary
 
         Console.WriteLine(
-            $"NUMBER = {Number}\n" +
-            $"SALARY = U$ {Hours * PerHour:F2}"
+            $"NUMBER = {number}\n" +
+            $"SALARY = U$ {hours * perHour:F2}"
             );
     }
 }
