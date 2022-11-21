@@ -10,10 +10,10 @@ class URI
 
         double π = 3.14159;
         double R = double.Parse(Console.ReadLine());
-        double Volume = (4.0 / 3) * π * Math.Pow(R, 3);
+        double volume = (4.0 / 3) * π * Math.Pow(R, 3);
 
         // The value must be presented with 3 digits after the decimal point
 
-        Console.WriteLine($"VOLUME = {Volume:F3}");
+        Console.WriteLine($"VOLUME = {volume:F3}");
     }
 }
