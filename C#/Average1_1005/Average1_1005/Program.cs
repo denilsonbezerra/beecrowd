@@ -12,10 +12,10 @@ class URI
 
         // Calculate the student's average, considering that grade A has weight 3.5 and B has weight 7.5
 
-        double MEDIA = (A * 3.5 + B * 7.5) / 11.0;
+        double Media = (A * 3.5 + B * 7.5) / 11.0;
 
         // Print MEDIA with 5 digits after the decimal point
 
-        Console.WriteLine($"MEDIA = {MEDIA:F5}");
+        Console.WriteLine($"MEDIA = {Media:F5}");
     }
 }
