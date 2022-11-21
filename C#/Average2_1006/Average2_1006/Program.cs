@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class URI
 {
@@ -13,10 +13,10 @@ class URI
 
         // Calculate the average, considering that grade A has weight 2, grade B has weight 3 and the grade C has weight 5
 
-        double Media = (A * 2 + B * 3 + C * 5) / 10;
+        double media = (A * 2 + B * 3 + C * 5) / 10;
 
         // Print MEDIA
 
-        Console.WriteLine($"MEDIA = {Media:F1}");
+        Console.WriteLine($"MEDIA = {media:F1}");
     }
 }
