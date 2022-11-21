@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class URI
 {
@@ -12,10 +12,10 @@ class URI
 
         // Calculate the sum between them
 
-        int Soma = A + B;
+        int soma = A + B;
 
         // Write the value of sum of A and B
 
-        Console.WriteLine($"SOMA = {Soma}");
+        Console.WriteLine($"SOMA = {soma}");
     }
 }
