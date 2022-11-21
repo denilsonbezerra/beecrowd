@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class URI
 {
@@ -9,15 +9,15 @@ class URI
 
         // Input contains 2 integer numbers and 1 value of floating point
 
-        int NUMBER = int.Parse(Console.ReadLine());
-        int HOURS = int.Parse(Console.ReadLine());
-        decimal PERHOUR = decimal.Parse(Console.ReadLine());
+        int Number = int.Parse(Console.ReadLine());
+        int Hours = int.Parse(Console.ReadLine());
+        decimal PerHour = decimal.Parse(Console.ReadLine());
 
         // Print the number and the employee's salary
 
         Console.WriteLine(
-            $"NUMBER = {NUMBER}\n" +
-            $"SALARY = U$ {HOURS * PERHOUR:F2}"
+            $"NUMBER = {Number}\n" +
+            $"SALARY = U$ {Hours * PerHour:F2}"
             );
     }
 }
