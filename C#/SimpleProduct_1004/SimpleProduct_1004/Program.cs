@@ -10,10 +10,10 @@ class URI
         int A = int.Parse(Console.ReadLine());
         int B = int.Parse(Console.ReadLine());
 
-        int PROD = A * B;
+        int Prod = A * B;
 
         // Print the PROD
 
-        Console.WriteLine($"PROD = {PROD}");
+        Console.WriteLine($"PROD = {Prod}");
     }
 }
