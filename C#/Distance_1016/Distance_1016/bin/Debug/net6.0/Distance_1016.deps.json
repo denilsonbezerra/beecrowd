@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Distance_1016/1.0.0": {
+        "runtime": {
+          "Distance_1016.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Distance_1016/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

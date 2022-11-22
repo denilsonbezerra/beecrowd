@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\bin\Debug\net6.0\Distance_1016.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\bin\Debug\net6.0\Distance_1016.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\bin\Debug\net6.0\Distance_1016.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\bin\Debug\net6.0\Distance_1016.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\bin\Debug\net6.0\Distance_1016.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\obj\Debug\net6.0\Distance_1016.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\obj\Debug\net6.0\Distance_1016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\obj\Debug\net6.0\Distance_1016.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\obj\Debug\net6.0\Distance_1016.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\obj\Debug\net6.0\Distance_1016.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\obj\Debug\net6.0\Distance_1016.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\obj\Debug\net6.0\refint\Distance_1016.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\obj\Debug\net6.0\Distance_1016.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\obj\Debug\net6.0\Distance_1016.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Distance_1016\Distance_1016\obj\Debug\net6.0\ref\Distance_1016.dll
