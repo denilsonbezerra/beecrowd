@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\bin\Debug\net6.0\Area_1012.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\bin\Debug\net6.0\Area_1012.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\bin\Debug\net6.0\Area_1012.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\bin\Debug\net6.0\Area_1012.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\bin\Debug\net6.0\Area_1012.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\obj\Debug\net6.0\Area_1012.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\obj\Debug\net6.0\Area_1012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\obj\Debug\net6.0\Area_1012.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\obj\Debug\net6.0\Area_1012.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\obj\Debug\net6.0\Area_1012.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\obj\Debug\net6.0\Area_1012.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\obj\Debug\net6.0\refint\Area_1012.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\obj\Debug\net6.0\Area_1012.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\obj\Debug\net6.0\Area_1012.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Area_1012\Area_1012\obj\Debug\net6.0\ref\Area_1012.dll
