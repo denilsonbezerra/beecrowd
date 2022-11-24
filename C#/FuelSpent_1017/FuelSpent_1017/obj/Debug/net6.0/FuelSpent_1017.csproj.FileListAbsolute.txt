@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\bin\Debug\net6.0\FuelSpent_1017.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\bin\Debug\net6.0\FuelSpent_1017.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\bin\Debug\net6.0\FuelSpent_1017.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\bin\Debug\net6.0\FuelSpent_1017.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\bin\Debug\net6.0\FuelSpent_1017.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\obj\Debug\net6.0\FuelSpent_1017.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\obj\Debug\net6.0\FuelSpent_1017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\obj\Debug\net6.0\FuelSpent_1017.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\obj\Debug\net6.0\FuelSpent_1017.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\obj\Debug\net6.0\FuelSpent_1017.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\obj\Debug\net6.0\FuelSpent_1017.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\obj\Debug\net6.0\refint\FuelSpent_1017.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\obj\Debug\net6.0\FuelSpent_1017.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\obj\Debug\net6.0\FuelSpent_1017.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\FuelSpent_1017\FuelSpent_1017\obj\Debug\net6.0\ref\FuelSpent_1017.dll

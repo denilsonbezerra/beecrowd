@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FuelSpent_1017/1.0.0": {
+        "runtime": {
+          "FuelSpent_1017.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FuelSpent_1017/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
