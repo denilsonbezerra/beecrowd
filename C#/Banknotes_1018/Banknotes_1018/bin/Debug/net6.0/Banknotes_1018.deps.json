@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Banknotes_1018/1.0.0": {
+        "runtime": {
+          "Banknotes_1018.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Banknotes_1018/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
