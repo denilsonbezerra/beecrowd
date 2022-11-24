@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\bin\Debug\net6.0\AgeInDays_1020.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\bin\Debug\net6.0\AgeInDays_1020.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\bin\Debug\net6.0\AgeInDays_1020.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\bin\Debug\net6.0\AgeInDays_1020.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\bin\Debug\net6.0\AgeInDays_1020.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\obj\Debug\net6.0\AgeInDays_1020.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\obj\Debug\net6.0\AgeInDays_1020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\obj\Debug\net6.0\AgeInDays_1020.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\obj\Debug\net6.0\AgeInDays_1020.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\obj\Debug\net6.0\AgeInDays_1020.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\obj\Debug\net6.0\AgeInDays_1020.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\obj\Debug\net6.0\refint\AgeInDays_1020.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\obj\Debug\net6.0\AgeInDays_1020.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\obj\Debug\net6.0\AgeInDays_1020.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\AgeInDays_1020\AgeInDays_1020\obj\Debug\net6.0\ref\AgeInDays_1020.dll
