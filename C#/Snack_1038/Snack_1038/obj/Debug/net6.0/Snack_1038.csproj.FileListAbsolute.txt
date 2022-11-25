@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\bin\Debug\net6.0\Snack_1038.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\bin\Debug\net6.0\Snack_1038.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\bin\Debug\net6.0\Snack_1038.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\bin\Debug\net6.0\Snack_1038.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\bin\Debug\net6.0\Snack_1038.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\obj\Debug\net6.0\refint\Snack_1038.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Snack_1038\Snack_1038\obj\Debug\net6.0\ref\Snack_1038.dll
