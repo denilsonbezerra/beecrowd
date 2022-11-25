@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\bin\Debug\net6.0\Interval_1037.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\bin\Debug\net6.0\Interval_1037.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\bin\Debug\net6.0\Interval_1037.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\bin\Debug\net6.0\Interval_1037.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\bin\Debug\net6.0\Interval_1037.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\obj\Debug\net6.0\Interval_1037.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\obj\Debug\net6.0\Interval_1037.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\obj\Debug\net6.0\Interval_1037.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\obj\Debug\net6.0\Interval_1037.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\obj\Debug\net6.0\Interval_1037.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\obj\Debug\net6.0\Interval_1037.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\obj\Debug\net6.0\refint\Interval_1037.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\obj\Debug\net6.0\Interval_1037.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\obj\Debug\net6.0\Interval_1037.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Interval_1037\Interval_1037\obj\Debug\net6.0\ref\Interval_1037.dll
