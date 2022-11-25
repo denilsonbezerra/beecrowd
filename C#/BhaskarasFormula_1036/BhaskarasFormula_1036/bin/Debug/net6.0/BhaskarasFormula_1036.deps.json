@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BhaskarasFormula_1036/1.0.0": {
+        "runtime": {
+          "BhaskarasFormula_1036.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BhaskarasFormula_1036/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

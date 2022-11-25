@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\bin\Debug\net6.0\BhaskarasFormula_1036.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\bin\Debug\net6.0\BhaskarasFormula_1036.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\bin\Debug\net6.0\BhaskarasFormula_1036.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\bin\Debug\net6.0\BhaskarasFormula_1036.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\bin\Debug\net6.0\BhaskarasFormula_1036.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\obj\Debug\net6.0\BhaskarasFormula_1036.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\obj\Debug\net6.0\BhaskarasFormula_1036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\obj\Debug\net6.0\BhaskarasFormula_1036.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\obj\Debug\net6.0\BhaskarasFormula_1036.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\obj\Debug\net6.0\BhaskarasFormula_1036.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\obj\Debug\net6.0\BhaskarasFormula_1036.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\obj\Debug\net6.0\refint\BhaskarasFormula_1036.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\obj\Debug\net6.0\BhaskarasFormula_1036.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\obj\Debug\net6.0\BhaskarasFormula_1036.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\BhaskarasFormula_1036\BhaskarasFormula_1036\obj\Debug\net6.0\ref\BhaskarasFormula_1036.dll
