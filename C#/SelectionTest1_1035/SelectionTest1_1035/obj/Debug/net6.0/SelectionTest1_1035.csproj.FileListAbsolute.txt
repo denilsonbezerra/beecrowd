@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\bin\Debug\net6.0\SelectionTest1_1035.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\bin\Debug\net6.0\SelectionTest1_1035.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\bin\Debug\net6.0\SelectionTest1_1035.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\bin\Debug\net6.0\SelectionTest1_1035.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\bin\Debug\net6.0\SelectionTest1_1035.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\obj\Debug\net6.0\SelectionTest1_1035.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\obj\Debug\net6.0\SelectionTest1_1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\obj\Debug\net6.0\SelectionTest1_1035.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\obj\Debug\net6.0\SelectionTest1_1035.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\obj\Debug\net6.0\SelectionTest1_1035.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\obj\Debug\net6.0\SelectionTest1_1035.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\obj\Debug\net6.0\refint\SelectionTest1_1035.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\obj\Debug\net6.0\SelectionTest1_1035.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\obj\Debug\net6.0\SelectionTest1_1035.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SelectionTest1_1035\SelectionTest1_1035\obj\Debug\net6.0\ref\SelectionTest1_1035.dll
