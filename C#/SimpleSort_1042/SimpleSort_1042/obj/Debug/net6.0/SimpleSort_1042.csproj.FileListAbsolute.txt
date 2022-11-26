@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\bin\Debug\net6.0\SimpleSort_1042.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\bin\Debug\net6.0\SimpleSort_1042.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\bin\Debug\net6.0\SimpleSort_1042.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\bin\Debug\net6.0\SimpleSort_1042.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\bin\Debug\net6.0\SimpleSort_1042.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\obj\Debug\net6.0\SimpleSort_1042.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\obj\Debug\net6.0\SimpleSort_1042.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\obj\Debug\net6.0\SimpleSort_1042.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\obj\Debug\net6.0\SimpleSort_1042.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\obj\Debug\net6.0\SimpleSort_1042.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\obj\Debug\net6.0\SimpleSort_1042.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\obj\Debug\net6.0\refint\SimpleSort_1042.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\obj\Debug\net6.0\SimpleSort_1042.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\obj\Debug\net6.0\SimpleSort_1042.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SimpleSort_1042\SimpleSort_1042\obj\Debug\net6.0\ref\SimpleSort_1042.dll
