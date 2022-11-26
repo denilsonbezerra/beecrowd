@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class URI {
 
@@ -9,52 +9,21 @@ class URI {
 
         string[] values = Console.ReadLine().Split(' ');
 
-        int value1 = int.Parse(values[0]);
-        int value2 = int.Parse(values[1]);
-        int value3 = int.Parse(values[2]);
+        int[] valuesInt = { int.Parse(values[0]), int.Parse(values[1]), int.Parse(values[2]) };
 
-        if (value1 < value2 && value1 < value3 && value2 < value3) {
-            Console.WriteLine(
-                $"{value1}\n" +
-                $"{value2}\n" +
-                $"{value3}\n"
-                );
-        } else if (value1 < value2 && value1 < value3 && value3 < value2) {
-            Console.WriteLine(
-                $"{value1}\n" +
-                $"{value3}\n" +
-                $"{value2}\n"
-                );
-        } else if (value2 < value1 && value2 < value3 && value1 < value3) {
-            Console.WriteLine(
-                $"{value2}\n" +
-                $"{value1}\n" +
-                $"{value3}\n"
-                );
-        } else if (value2 < value1 && value2 < value3 && value3 < value1) {
-            Console.WriteLine(
-                $"{value2}\n" +
-                $"{value3}\n" +
-                $"{value1}\n"
-                );
-        } else if (value3 < value1 && value3 < value2 && value1 < value2) {
-            Console.WriteLine(
-                $"{value3}\n" +
-                $"{value1}\n" +
-                $"{value2}\n"
-                );
-        } else {
-            Console.WriteLine(
-                $"{value3}\n" +
-                $"{value2}\n" +
-                $"{value1}\n"
-                );
-        }
+        int[] valuesSort = { int.Parse(values[0]), int.Parse(values[1]), int.Parse(values[2]) };
+        Array.Sort(valuesSort);
 
         Console.WriteLine(
-            $"{value1}\n" +
-            $"{value2}\n" +
-            $"{value3}"
+            $"{valuesSort[0]}\n" +
+            $"{valuesSort[1]}\n" +
+            $"{valuesSort[2]}\n"
+            );
+
+        Console.WriteLine(
+            $"{valuesInt[0]}\n" +
+            $"{valuesInt[1]}\n" +
+            $"{valuesInt[2]}"
             );
 
     }
