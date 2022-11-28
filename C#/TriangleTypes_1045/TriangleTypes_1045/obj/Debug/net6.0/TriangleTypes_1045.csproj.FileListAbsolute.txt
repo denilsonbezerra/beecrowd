@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\bin\Debug\net6.0\TriangleTypes_1045.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\bin\Debug\net6.0\TriangleTypes_1045.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\bin\Debug\net6.0\TriangleTypes_1045.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\bin\Debug\net6.0\TriangleTypes_1045.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\bin\Debug\net6.0\TriangleTypes_1045.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\obj\Debug\net6.0\TriangleTypes_1045.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\obj\Debug\net6.0\TriangleTypes_1045.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\obj\Debug\net6.0\TriangleTypes_1045.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\obj\Debug\net6.0\TriangleTypes_1045.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\obj\Debug\net6.0\TriangleTypes_1045.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\obj\Debug\net6.0\TriangleTypes_1045.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\obj\Debug\net6.0\refint\TriangleTypes_1045.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\obj\Debug\net6.0\TriangleTypes_1045.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\obj\Debug\net6.0\TriangleTypes_1045.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\TriangleTypes_1045\TriangleTypes_1045\obj\Debug\net6.0\ref\TriangleTypes_1045.dll
