@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\bin\Debug\net6.0\Multiples_1044.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\bin\Debug\net6.0\Multiples_1044.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\bin\Debug\net6.0\Multiples_1044.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\bin\Debug\net6.0\Multiples_1044.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\bin\Debug\net6.0\Multiples_1044.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\obj\Debug\net6.0\Multiples_1044.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\obj\Debug\net6.0\Multiples_1044.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\obj\Debug\net6.0\Multiples_1044.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\obj\Debug\net6.0\Multiples_1044.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\obj\Debug\net6.0\Multiples_1044.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\obj\Debug\net6.0\Multiples_1044.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\obj\Debug\net6.0\refint\Multiples_1044.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\obj\Debug\net6.0\Multiples_1044.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\obj\Debug\net6.0\Multiples_1044.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\Multiples_1044\Multiples_1044\obj\Debug\net6.0\ref\Multiples_1044.dll
