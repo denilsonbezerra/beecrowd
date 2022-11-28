@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\bin\Debug\net6.0\GameTime_1046.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\bin\Debug\net6.0\GameTime_1046.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\bin\Debug\net6.0\GameTime_1046.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\bin\Debug\net6.0\GameTime_1046.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\bin\Debug\net6.0\GameTime_1046.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\obj\Debug\net6.0\GameTime_1046.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\obj\Debug\net6.0\GameTime_1046.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\obj\Debug\net6.0\GameTime_1046.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\obj\Debug\net6.0\GameTime_1046.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\obj\Debug\net6.0\GameTime_1046.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\obj\Debug\net6.0\GameTime_1046.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\obj\Debug\net6.0\refint\GameTime_1046.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\obj\Debug\net6.0\GameTime_1046.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\obj\Debug\net6.0\GameTime_1046.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\GameTime_1046\GameTime_1046\obj\Debug\net6.0\ref\GameTime_1046.dll
