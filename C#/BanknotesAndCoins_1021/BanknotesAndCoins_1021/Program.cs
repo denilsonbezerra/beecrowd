@@ -6,14 +6,7 @@ class URI
     static void Main(string[] args)
     {
 
-        // Read a value of floating point with two decimal places
-
-        decimal readValue = decimal.Parse(Console.ReadLine());
-
-        // After this, calculate the smallest possible number of notes and coins on which the value can be decomposed
-        // The considered notes are of 100, 50, 20, 10, 5, 2. The possible coins are of 1, 0.50, 0.25, 0.10, 0.05 and 0.01
-
-        // Print the message “NOTAS:” followed by the list of notes
+        decimal inputValue = decimal.Parse(Console.ReadLine());
 
         Console.WriteLine("NOTAS:");
 
@@ -21,22 +14,14 @@ class URI
 
         foreach (decimal noteOrCoin in notesAndCoins) {
 
+            decimal notesAndCoinsNum = Math.Floor(inputValue / noteOrCoin);
+            inputValue -= noteOrCoin * notesAndCoinsNum;
+
             if (noteOrCoin > 1) {
-
-                decimal numberOfNotes = Math.Floor(readValue / noteOrCoin);
-                readValue -= noteOrCoin * numberOfNotes;
-
-                Console.WriteLine($"{numberOfNotes} nota(s) de R$ {noteOrCoin:F2}");
-
+                Console.WriteLine($"{notesAndCoinsNum} nota(s) de R$ {noteOrCoin:F2}");
             } else {
-
                 if (noteOrCoin == 1) { Console.WriteLine("MOEDAS:"); }
-
-                decimal numberOfCoins = Math.Floor(readValue / noteOrCoin);
-                readValue -= noteOrCoin * numberOfCoins;
-
-                Console.WriteLine($"{numberOfCoins} moeda(s) de R$ {noteOrCoin:F2}");
-
+                Console.WriteLine($"{notesAndCoinsNum} moeda(s) de R$ {noteOrCoin:F2}");
             }
 
         }
