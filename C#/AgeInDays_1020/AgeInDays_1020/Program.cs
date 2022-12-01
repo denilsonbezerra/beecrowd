@@ -1,5 +1,4 @@
-﻿using System;
-using static System.Net.Mime.MediaTypeNames;
+using System;
 
 class URI
 {
@@ -7,35 +6,24 @@ class URI
     static void Main(string[] args)
     {
 
-        // Read an integer value corresponding to a person's age (in days)
-
         int ageInDays = int.Parse(Console.ReadLine());
 
-        // Print it in years, months and days followed by its respective message “ano(s)”, “mes(es)”, “dia(s)”.
+        int[] yearMonthAndDay = { 365, 30, 1 };
 
-        int years = 0;
-        int months = 0;
-        int days = 0;
+        foreach (int days in yearMonthAndDay) {
 
-        for (years = 0; ageInDays >= 365; years++) {
-            ageInDays -= 365;
+            int convertedDate = ageInDays / days;
+            ageInDays -= convertedDate * days;
+
+            if (days == 365) {
+                Console.WriteLine($"{convertedDate} ano(s)");
+            } else if (days == 30) {
+                Console.WriteLine($"{convertedDate} mes(es)");
+            } else {
+                Console.WriteLine($"{convertedDate} dia(s)");
+            }
+
         }
-
-        for (months = 0; ageInDays >= 30; months++)
-        {
-            ageInDays -= 30;
-        }
-
-        for (days = 0; ageInDays > 0; days++)
-        {
-            ageInDays -= 1;
-        }
-
-        Console.WriteLine(
-            $"{years} ano(s)\n" +
-            $"{months} mes(es)\n" +
-            $"{days} dia(s)"
-            );
 
     }
 
