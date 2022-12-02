@@ -1,0 +1,15 @@
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\bin\Debug\net6.0\SalaryIncrease_1048.exe
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\bin\Debug\net6.0\SalaryIncrease_1048.deps.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\bin\Debug\net6.0\SalaryIncrease_1048.runtimeconfig.json
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\bin\Debug\net6.0\SalaryIncrease_1048.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\bin\Debug\net6.0\SalaryIncrease_1048.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.csproj.AssemblyReference.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.AssemblyInfoInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.AssemblyInfo.cs
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.csproj.CoreCompileInputs.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\refint\SalaryIncrease_1048.dll
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.pdb
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\SalaryIncrease_1048.genruntimeconfig.cache
+C:\Users\denil\Área de Trabalho\dev\sharp-coders\C#\SalaryIncrease_1048\SalaryIncrease_1048\obj\Debug\net6.0\ref\SalaryIncrease_1048.dll
