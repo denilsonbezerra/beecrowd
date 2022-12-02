@@ -6,12 +6,12 @@ class URI {
 
         string[] studentScores = Console.ReadLine().Split(' ');
 
-        decimal number1 = decimal.Parse(studentScores[0]);
-        decimal number2 = decimal.Parse(studentScores[1]);
-        decimal number3 = decimal.Parse(studentScores[2]);
-        decimal number4 = decimal.Parse(studentScores[3]);
+        double number1 = double.Parse(studentScores[0]);
+        double number2 = double.Parse(studentScores[1]);
+        double number3 = double.Parse(studentScores[2]);
+        double number4 = double.Parse(studentScores[3]);
 
-        decimal average = Math.Round((number1 * 2 + number2 * 3 + number3 * 4 + number4) / 10, 1, MidpointRounding.ToEven);
+        double average = Math.Round((number1 * 2 + number2 * 3 + number3 * 4 + number4) / 10, 1, MidpointRounding.ToEven);
 
         Console.WriteLine($"Media: {average}");
 
@@ -23,11 +23,11 @@ class URI {
 
             Console.WriteLine("Aluno em exame.");
 
-            decimal examScore = decimal.Parse(Console.ReadLine());
+            double examScore = double.Parse(Console.ReadLine());
 
             Console.WriteLine($"Nota do exame: {examScore:F1}");
 
-            decimal finalAverage = Math.Round((average + examScore) / 2, 1, MidpointRounding.ToEven);
+            double finalAverage = Math.Round((average + examScore) / 2, 1, MidpointRounding.ToEven);
 
             if (finalAverage >= 5) {
                 Console.WriteLine("Aluno aprovado.");
