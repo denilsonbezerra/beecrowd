@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\bin\Debug\net6.0\Month_1052.exe
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\bin\Debug\net6.0\Month_1052.deps.json
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\bin\Debug\net6.0\Month_1052.runtimeconfig.json
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\bin\Debug\net6.0\Month_1052.dll
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\bin\Debug\net6.0\Month_1052.pdb
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.dll
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\obj\Debug\net6.0\refint\Month_1052.dll
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.pdb
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\Month_1052\Month_1052\obj\Debug\net6.0\ref\Month_1052.dll
