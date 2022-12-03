@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.exe
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.deps.json
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.runtimeconfig.json
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.dll
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.pdb
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.dll
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\obj\Debug\net6.0\refint\DDD_1050.dll
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.pdb
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\DDD_1050\DDD_1050\obj\Debug\net6.0\ref\DDD_1050.dll
