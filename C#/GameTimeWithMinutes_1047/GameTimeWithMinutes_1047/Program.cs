@@ -6,14 +6,13 @@ class URI {
 
         string[] time = Console.ReadLine().Split(' ');
 
-        decimal startTimeHour = decimal.Parse(time[0]);
-        decimal startTimeMinutes = decimal.Parse(time[1]);
+        int startTimeHour = int.Parse(time[0]);
+        int startTimeMinutes = int.Parse(time[1]);
 
-        decimal endTimeHour = decimal.Parse(time[2]);
-        decimal endTimeMinutes = decimal.Parse(time[3]);
+        int endTimeHour = int.Parse(time[2]);
+        int endTimeMinutes = int.Parse(time[3]);
 
-        decimal gameHours = 0;
-        decimal gameMinutes = 0;
+        int gameHours, gameMinutes;
 
         if (endTimeHour == startTimeHour && endTimeMinutes > startTimeMinutes) {
             gameHours = 0;
