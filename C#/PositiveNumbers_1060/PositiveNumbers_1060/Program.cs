@@ -1,17 +1,17 @@
-﻿using System;
+using System;
 
 class URI {
 
     static void Main(string[] args) {
 
-        float n1 = float.Parse(Console.ReadLine());
-        float n2 = float.Parse(Console.ReadLine());
-        float n3 = float.Parse(Console.ReadLine());
-        float n4 = float.Parse(Console.ReadLine());
-        float n5 = float.Parse(Console.ReadLine());
-        float n6 = float.Parse(Console.ReadLine());
+        float[] numbers = new float[6];
+        numbers[0] = float.Parse(Console.ReadLine());
+        numbers[1] = float.Parse(Console.ReadLine());
+        numbers[2] = float.Parse(Console.ReadLine());
+        numbers[3] = float.Parse(Console.ReadLine());
+        numbers[4] = float.Parse(Console.ReadLine());
+        numbers[5] = float.Parse(Console.ReadLine());
 
-        float[] numbers = { n1, n2, n3, n4, n5, n6 };
         int i = 0;
 
         foreach (float number in numbers) {
