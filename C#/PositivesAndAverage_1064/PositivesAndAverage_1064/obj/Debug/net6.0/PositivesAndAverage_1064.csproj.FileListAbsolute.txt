@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\bin\Debug\net6.0\PositivesAndAverage_1064.exe
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\bin\Debug\net6.0\PositivesAndAverage_1064.deps.json
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\bin\Debug\net6.0\PositivesAndAverage_1064.runtimeconfig.json
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\bin\Debug\net6.0\PositivesAndAverage_1064.dll
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\bin\Debug\net6.0\PositivesAndAverage_1064.pdb
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\obj\Debug\net6.0\PositivesAndAverage_1064.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\obj\Debug\net6.0\PositivesAndAverage_1064.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\obj\Debug\net6.0\PositivesAndAverage_1064.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\obj\Debug\net6.0\PositivesAndAverage_1064.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\obj\Debug\net6.0\PositivesAndAverage_1064.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\obj\Debug\net6.0\PositivesAndAverage_1064.dll
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\obj\Debug\net6.0\refint\PositivesAndAverage_1064.dll
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\obj\Debug\net6.0\PositivesAndAverage_1064.pdb
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\obj\Debug\net6.0\PositivesAndAverage_1064.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\PositivesAndAverage_1064\PositivesAndAverage_1064\obj\Debug\net6.0\ref\PositivesAndAverage_1064.dll
