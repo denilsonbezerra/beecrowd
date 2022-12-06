@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\bin\Debug\net6.0\PositiveNumbers_1060.exe
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\bin\Debug\net6.0\PositiveNumbers_1060.deps.json
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\bin\Debug\net6.0\PositiveNumbers_1060.runtimeconfig.json
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\bin\Debug\net6.0\PositiveNumbers_1060.dll
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\bin\Debug\net6.0\PositiveNumbers_1060.pdb
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.dll
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\refint\PositiveNumbers_1060.dll
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.pdb
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\PositiveNumbers_1060.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\PositiveNumbers_1060\PositiveNumbers_1060\obj\Debug\net6.0\ref\PositiveNumbers_1060.dll
