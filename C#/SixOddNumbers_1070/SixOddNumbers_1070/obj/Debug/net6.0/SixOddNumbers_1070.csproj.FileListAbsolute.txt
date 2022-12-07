@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\bin\Debug\net6.0\SixOddNumbers_1070.exe
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\bin\Debug\net6.0\SixOddNumbers_1070.deps.json
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\bin\Debug\net6.0\SixOddNumbers_1070.runtimeconfig.json
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\bin\Debug\net6.0\SixOddNumbers_1070.dll
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\bin\Debug\net6.0\SixOddNumbers_1070.pdb
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\obj\Debug\net6.0\SixOddNumbers_1070.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\obj\Debug\net6.0\SixOddNumbers_1070.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\obj\Debug\net6.0\SixOddNumbers_1070.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\obj\Debug\net6.0\SixOddNumbers_1070.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\obj\Debug\net6.0\SixOddNumbers_1070.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\obj\Debug\net6.0\SixOddNumbers_1070.dll
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\obj\Debug\net6.0\refint\SixOddNumbers_1070.dll
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\obj\Debug\net6.0\SixOddNumbers_1070.pdb
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\obj\Debug\net6.0\SixOddNumbers_1070.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\SixOddNumbers_1070\SixOddNumbers_1070\obj\Debug\net6.0\ref\SixOddNumbers_1070.dll
