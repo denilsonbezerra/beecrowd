@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\bin\Debug\net6.0\EvenOddPositiveAndNegative_1066.exe
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\bin\Debug\net6.0\EvenOddPositiveAndNegative_1066.deps.json
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\bin\Debug\net6.0\EvenOddPositiveAndNegative_1066.runtimeconfig.json
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\bin\Debug\net6.0\EvenOddPositiveAndNegative_1066.dll
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\bin\Debug\net6.0\EvenOddPositiveAndNegative_1066.pdb
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\obj\Debug\net6.0\EvenOddPositiveAndNegative_1066.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\obj\Debug\net6.0\EvenOddPositiveAndNegative_1066.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\obj\Debug\net6.0\EvenOddPositiveAndNegative_1066.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\obj\Debug\net6.0\EvenOddPositiveAndNegative_1066.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\obj\Debug\net6.0\EvenOddPositiveAndNegative_1066.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\obj\Debug\net6.0\EvenOddPositiveAndNegative_1066.dll
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\obj\Debug\net6.0\refint\EvenOddPositiveAndNegative_1066.dll
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\obj\Debug\net6.0\EvenOddPositiveAndNegative_1066.pdb
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\obj\Debug\net6.0\EvenOddPositiveAndNegative_1066.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\EvenOddPositiveAndNegative_1066\EvenOddPositiveAndNegative_1066\obj\Debug\net6.0\ref\EvenOddPositiveAndNegative_1066.dll
