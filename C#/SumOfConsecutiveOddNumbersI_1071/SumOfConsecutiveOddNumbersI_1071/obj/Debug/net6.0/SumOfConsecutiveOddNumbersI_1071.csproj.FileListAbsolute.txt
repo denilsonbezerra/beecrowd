@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\bin\Debug\net6.0\SumOfConsecutiveOddNumbersI_1071.exe
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\bin\Debug\net6.0\SumOfConsecutiveOddNumbersI_1071.deps.json
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\bin\Debug\net6.0\SumOfConsecutiveOddNumbersI_1071.runtimeconfig.json
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\bin\Debug\net6.0\SumOfConsecutiveOddNumbersI_1071.dll
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\bin\Debug\net6.0\SumOfConsecutiveOddNumbersI_1071.pdb
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbersI_1071.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbersI_1071.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbersI_1071.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbersI_1071.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbersI_1071.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbersI_1071.dll
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\obj\Debug\net6.0\refint\SumOfConsecutiveOddNumbersI_1071.dll
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbersI_1071.pdb
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbersI_1071.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\SumOfConsecutiveOddNumbersI_1071\SumOfConsecutiveOddNumbersI_1071\obj\Debug\net6.0\ref\SumOfConsecutiveOddNumbersI_1071.dll
