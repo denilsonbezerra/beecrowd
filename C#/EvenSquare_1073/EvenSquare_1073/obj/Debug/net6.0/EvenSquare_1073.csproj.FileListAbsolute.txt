@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\bin\Debug\net6.0\EvenSquare_1073.exe
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\bin\Debug\net6.0\EvenSquare_1073.deps.json
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\bin\Debug\net6.0\EvenSquare_1073.runtimeconfig.json
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\bin\Debug\net6.0\EvenSquare_1073.dll
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\bin\Debug\net6.0\EvenSquare_1073.pdb
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\obj\Debug\net6.0\EvenSquare_1073.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\obj\Debug\net6.0\EvenSquare_1073.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\obj\Debug\net6.0\EvenSquare_1073.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\obj\Debug\net6.0\EvenSquare_1073.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\obj\Debug\net6.0\EvenSquare_1073.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\obj\Debug\net6.0\EvenSquare_1073.dll
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\obj\Debug\net6.0\refint\EvenSquare_1073.dll
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\obj\Debug\net6.0\EvenSquare_1073.pdb
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\obj\Debug\net6.0\EvenSquare_1073.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\EvenSquare_1073\EvenSquare_1073\obj\Debug\net6.0\ref\EvenSquare_1073.dll
