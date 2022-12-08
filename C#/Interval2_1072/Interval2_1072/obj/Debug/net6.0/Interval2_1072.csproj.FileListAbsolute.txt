@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\bin\Debug\net6.0\Interval2_1072.exe
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\bin\Debug\net6.0\Interval2_1072.deps.json
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\bin\Debug\net6.0\Interval2_1072.runtimeconfig.json
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\bin\Debug\net6.0\Interval2_1072.dll
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\bin\Debug\net6.0\Interval2_1072.pdb
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\obj\Debug\net6.0\Interval2_1072.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\obj\Debug\net6.0\Interval2_1072.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\obj\Debug\net6.0\Interval2_1072.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\obj\Debug\net6.0\Interval2_1072.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\obj\Debug\net6.0\Interval2_1072.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\obj\Debug\net6.0\Interval2_1072.dll
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\obj\Debug\net6.0\refint\Interval2_1072.dll
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\obj\Debug\net6.0\Interval2_1072.pdb
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\obj\Debug\net6.0\Interval2_1072.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\Interval2_1072\Interval2_1072\obj\Debug\net6.0\ref\Interval2_1072.dll
