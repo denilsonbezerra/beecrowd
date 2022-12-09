@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\obj\Debug\net6.0\WeightedAverages_1079.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\obj\Debug\net6.0\WeightedAverages_1079.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\obj\Debug\net6.0\WeightedAverages_1079.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\obj\Debug\net6.0\WeightedAverages_1079.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\obj\Debug\net6.0\WeightedAverages_1079.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\bin\Debug\net6.0\WeightedAverages_1079.exe
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\bin\Debug\net6.0\WeightedAverages_1079.deps.json
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\bin\Debug\net6.0\WeightedAverages_1079.runtimeconfig.json
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\bin\Debug\net6.0\WeightedAverages_1079.dll
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\bin\Debug\net6.0\WeightedAverages_1079.pdb
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\obj\Debug\net6.0\WeightedAverages_1079.dll
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\obj\Debug\net6.0\refint\WeightedAverages_1079.dll
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\obj\Debug\net6.0\WeightedAverages_1079.pdb
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\obj\Debug\net6.0\WeightedAverages_1079.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\WeightedAverages_1079\WeightedAverages_1079\obj\Debug\net6.0\ref\WeightedAverages_1079.dll
