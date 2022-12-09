@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\bin\Debug\net6.0\MultiplicationTable_1078.exe
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\bin\Debug\net6.0\MultiplicationTable_1078.deps.json
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\bin\Debug\net6.0\MultiplicationTable_1078.runtimeconfig.json
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\bin\Debug\net6.0\MultiplicationTable_1078.dll
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\bin\Debug\net6.0\MultiplicationTable_1078.pdb
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.dll
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\refint\MultiplicationTable_1078.dll
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.pdb
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\MultiplicationTable_1078.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\MultiplicationTable_1078\MultiplicationTable_1078\obj\Debug\net6.0\ref\MultiplicationTable_1078.dll
