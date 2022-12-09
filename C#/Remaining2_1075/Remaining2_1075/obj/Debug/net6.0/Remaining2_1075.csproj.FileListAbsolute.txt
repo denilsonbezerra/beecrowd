@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\bin\Debug\net6.0\Remaining2_1075.exe
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\bin\Debug\net6.0\Remaining2_1075.deps.json
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\bin\Debug\net6.0\Remaining2_1075.runtimeconfig.json
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\bin\Debug\net6.0\Remaining2_1075.dll
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\bin\Debug\net6.0\Remaining2_1075.pdb
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\obj\Debug\net6.0\Remaining2_1075.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\obj\Debug\net6.0\Remaining2_1075.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\obj\Debug\net6.0\Remaining2_1075.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\obj\Debug\net6.0\Remaining2_1075.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\obj\Debug\net6.0\Remaining2_1075.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\obj\Debug\net6.0\Remaining2_1075.dll
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\obj\Debug\net6.0\refint\Remaining2_1075.dll
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\obj\Debug\net6.0\Remaining2_1075.pdb
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\obj\Debug\net6.0\Remaining2_1075.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\Remaining2_1075\Remaining2_1075\obj\Debug\net6.0\ref\Remaining2_1075.dll
