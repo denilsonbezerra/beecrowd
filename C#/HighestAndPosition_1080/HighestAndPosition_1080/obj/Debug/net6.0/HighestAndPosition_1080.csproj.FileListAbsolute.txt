@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\bin\Debug\net6.0\HighestAndPosition_1080.exe
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\bin\Debug\net6.0\HighestAndPosition_1080.deps.json
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\bin\Debug\net6.0\HighestAndPosition_1080.runtimeconfig.json
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\bin\Debug\net6.0\HighestAndPosition_1080.dll
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\bin\Debug\net6.0\HighestAndPosition_1080.pdb
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.dll
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\refint\HighestAndPosition_1080.dll
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.pdb
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\ref\HighestAndPosition_1080.dll
