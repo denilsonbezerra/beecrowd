@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\bin\Debug\net6.0\SequenceIJ1_1095.exe
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\bin\Debug\net6.0\SequenceIJ1_1095.deps.json
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\bin\Debug\net6.0\SequenceIJ1_1095.runtimeconfig.json
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\bin\Debug\net6.0\SequenceIJ1_1095.dll
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\bin\Debug\net6.0\SequenceIJ1_1095.pdb
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\obj\Debug\net6.0\SequenceIJ1_1095.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\obj\Debug\net6.0\SequenceIJ1_1095.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\obj\Debug\net6.0\SequenceIJ1_1095.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\obj\Debug\net6.0\SequenceIJ1_1095.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\obj\Debug\net6.0\SequenceIJ1_1095.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\obj\Debug\net6.0\SequenceIJ1_1095.dll
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\obj\Debug\net6.0\refint\SequenceIJ1_1095.dll
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\obj\Debug\net6.0\SequenceIJ1_1095.pdb
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\obj\Debug\net6.0\SequenceIJ1_1095.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\SequenceIJ1_1095\SequenceIJ1_1095\obj\Debug\net6.0\ref\SequenceIJ1_1095.dll
