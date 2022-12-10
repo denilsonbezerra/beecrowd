@@ -1,25 +1,21 @@
-﻿using System;
+using System;
 
 class URI {
 
     static void Main(string[] args) {
 
-        int[] numbers = new int[5];
-        numbers[0] = int.Parse(Console.ReadLine());
-        numbers[1] = int.Parse(Console.ReadLine());
-        numbers[2] = int.Parse(Console.ReadLine());
-        numbers[3] = int.Parse(Console.ReadLine());
-        numbers[4] = int.Parse(Console.ReadLine());
+        int even = 0;
 
-        int i = 0;
+        for (int i = 0; i < 5; i++) {
 
-        foreach (int number in numbers) {
+            int number = int.Parse(Console.ReadLine());
+
             if (number % 2 == 0) {
-                i++;
+                even++;
             }
         }
 
-        Console.WriteLine($"{i} valores pares");
+        Console.WriteLine($"{even} valores pares");
 
     }
 
