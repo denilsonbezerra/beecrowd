@@ -4,7 +4,7 @@ class URI {
 
     static void Main(string[] args) {
 
-        for (int i = 1, j = 7; i <= 9 && j <= 15; j -= 1) {
+        for (int i = 1, j = 7; i <= 9 && j <= 15; j--) {
 
             Console.WriteLine($"I={i} J={j}");
 
