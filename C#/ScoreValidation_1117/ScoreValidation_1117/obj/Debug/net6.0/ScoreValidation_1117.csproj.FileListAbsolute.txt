@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\bin\Debug\net6.0\ScoreValidation_1117.exe
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\bin\Debug\net6.0\ScoreValidation_1117.deps.json
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\bin\Debug\net6.0\ScoreValidation_1117.runtimeconfig.json
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\bin\Debug\net6.0\ScoreValidation_1117.dll
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\bin\Debug\net6.0\ScoreValidation_1117.pdb
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\obj\Debug\net6.0\ScoreValidation_1117.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\obj\Debug\net6.0\ScoreValidation_1117.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\obj\Debug\net6.0\ScoreValidation_1117.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\obj\Debug\net6.0\ScoreValidation_1117.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\obj\Debug\net6.0\ScoreValidation_1117.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\obj\Debug\net6.0\ScoreValidation_1117.dll
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\obj\Debug\net6.0\refint\ScoreValidation_1117.dll
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\obj\Debug\net6.0\ScoreValidation_1117.pdb
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\obj\Debug\net6.0\ScoreValidation_1117.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\ScoreValidation_1117\ScoreValidation_1117\obj\Debug\net6.0\ref\ScoreValidation_1117.dll
