@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\bin\Debug\net6.0\MultiplesOf13_1132.exe
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\bin\Debug\net6.0\MultiplesOf13_1132.deps.json
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\bin\Debug\net6.0\MultiplesOf13_1132.runtimeconfig.json
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\bin\Debug\net6.0\MultiplesOf13_1132.dll
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\bin\Debug\net6.0\MultiplesOf13_1132.pdb
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\obj\Debug\net6.0\MultiplesOf13_1132.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\obj\Debug\net6.0\MultiplesOf13_1132.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\obj\Debug\net6.0\MultiplesOf13_1132.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\obj\Debug\net6.0\MultiplesOf13_1132.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\obj\Debug\net6.0\MultiplesOf13_1132.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\obj\Debug\net6.0\MultiplesOf13_1132.dll
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\obj\Debug\net6.0\refint\MultiplesOf13_1132.dll
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\obj\Debug\net6.0\MultiplesOf13_1132.pdb
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\obj\Debug\net6.0\MultiplesOf13_1132.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\MultiplesOf13_1132\MultiplesOf13_1132\obj\Debug\net6.0\ref\MultiplesOf13_1132.dll
