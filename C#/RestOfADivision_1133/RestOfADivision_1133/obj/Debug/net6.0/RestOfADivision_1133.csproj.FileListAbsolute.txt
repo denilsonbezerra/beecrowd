@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\bin\Debug\net6.0\RestOfADivision_1133.exe
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\bin\Debug\net6.0\RestOfADivision_1133.deps.json
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\bin\Debug\net6.0\RestOfADivision_1133.runtimeconfig.json
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\bin\Debug\net6.0\RestOfADivision_1133.dll
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\bin\Debug\net6.0\RestOfADivision_1133.pdb
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\obj\Debug\net6.0\RestOfADivision_1133.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\obj\Debug\net6.0\RestOfADivision_1133.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\obj\Debug\net6.0\RestOfADivision_1133.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\obj\Debug\net6.0\RestOfADivision_1133.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\obj\Debug\net6.0\RestOfADivision_1133.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\obj\Debug\net6.0\RestOfADivision_1133.dll
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\obj\Debug\net6.0\refint\RestOfADivision_1133.dll
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\obj\Debug\net6.0\RestOfADivision_1133.pdb
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\obj\Debug\net6.0\RestOfADivision_1133.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\Beecrowd\RestOfADivision_1133\RestOfADivision_1133\obj\Debug\net6.0\ref\RestOfADivision_1133.dll
