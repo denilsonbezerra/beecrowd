@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\bin\Debug\net6.0\EventTime_1061.exe
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\bin\Debug\net6.0\EventTime_1061.deps.json
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\bin\Debug\net6.0\EventTime_1061.runtimeconfig.json
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\bin\Debug\net6.0\EventTime_1061.dll
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\bin\Debug\net6.0\EventTime_1061.pdb
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\obj\Debug\net6.0\EventTime_1061.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\obj\Debug\net6.0\EventTime_1061.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\obj\Debug\net6.0\EventTime_1061.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\obj\Debug\net6.0\EventTime_1061.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\obj\Debug\net6.0\EventTime_1061.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\obj\Debug\net6.0\EventTime_1061.dll
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\obj\Debug\net6.0\refint\EventTime_1061.dll
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\obj\Debug\net6.0\EventTime_1061.pdb
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\obj\Debug\net6.0\EventTime_1061.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\Beecrowd\EventTime_1061\EventTime_1061\obj\Debug\net6.0\ref\EventTime_1061.dll
