@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\bin\Debug\net6.0\TypeOfFuel_1134.exe
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\bin\Debug\net6.0\TypeOfFuel_1134.deps.json
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\bin\Debug\net6.0\TypeOfFuel_1134.runtimeconfig.json
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\bin\Debug\net6.0\TypeOfFuel_1134.dll
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\bin\Debug\net6.0\TypeOfFuel_1134.pdb
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\obj\Debug\net6.0\TypeOfFuel_1134.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\obj\Debug\net6.0\TypeOfFuel_1134.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\obj\Debug\net6.0\TypeOfFuel_1134.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\obj\Debug\net6.0\TypeOfFuel_1134.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\obj\Debug\net6.0\TypeOfFuel_1134.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\obj\Debug\net6.0\TypeOfFuel_1134.dll
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\obj\Debug\net6.0\refint\TypeOfFuel_1134.dll
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\obj\Debug\net6.0\TypeOfFuel_1134.pdb
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\obj\Debug\net6.0\TypeOfFuel_1134.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\Beecrowd\TypeOfFuel_1134\TypeOfFuel_1134\obj\Debug\net6.0\ref\TypeOfFuel_1134.dll
