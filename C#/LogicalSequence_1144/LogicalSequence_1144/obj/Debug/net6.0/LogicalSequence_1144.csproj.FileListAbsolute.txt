@@ -1,0 +1,15 @@
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\bin\Debug\net6.0\LogicalSequence_1144.exe
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\bin\Debug\net6.0\LogicalSequence_1144.deps.json
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\bin\Debug\net6.0\LogicalSequence_1144.runtimeconfig.json
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\bin\Debug\net6.0\LogicalSequence_1144.dll
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\bin\Debug\net6.0\LogicalSequence_1144.pdb
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\obj\Debug\net6.0\LogicalSequence_1144.csproj.AssemblyReference.cache
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\obj\Debug\net6.0\LogicalSequence_1144.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\obj\Debug\net6.0\LogicalSequence_1144.AssemblyInfoInputs.cache
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\obj\Debug\net6.0\LogicalSequence_1144.AssemblyInfo.cs
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\obj\Debug\net6.0\LogicalSequence_1144.csproj.CoreCompileInputs.cache
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\obj\Debug\net6.0\LogicalSequence_1144.dll
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\obj\Debug\net6.0\refint\LogicalSequence_1144.dll
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\obj\Debug\net6.0\LogicalSequence_1144.pdb
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\obj\Debug\net6.0\LogicalSequence_1144.genruntimeconfig.cache
+D:\dev\sharp-coders\C#\Beecrowd\LogicalSequence_1144\LogicalSequence_1144\obj\Debug\net6.0\ref\LogicalSequence_1144.dll

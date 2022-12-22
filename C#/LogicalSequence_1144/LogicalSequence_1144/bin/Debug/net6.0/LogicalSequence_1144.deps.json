@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LogicalSequence_1144/1.0.0": {
+        "runtime": {
+          "LogicalSequence_1144.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogicalSequence_1144/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
