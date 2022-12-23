@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GrowingSequences_1146/1.0.0": {
+        "runtime": {
+          "GrowingSequences_1146.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GrowingSequences_1146/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
